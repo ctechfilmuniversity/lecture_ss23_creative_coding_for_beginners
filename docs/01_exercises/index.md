@@ -1,20 +1,18 @@
 ---
 layout: default
-title: Sessions
+title: Exercises
 nav_order: 2
-has_children: false
+has_children: true
 ---
 
-# Procedural Generation and Simulation
+# Creative Coding For Beginners
+  
+Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  
+  
 
-Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de   
-Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
+## Exercises
 
-
-## Sessions
-
-* [Session 01 - Introduction](01_intro/README.md)
-* [Session 02 - Beauty in Maths](02_mathsbeauty/README.md)
+* [Exercises 01 - Introduction](01_intro/README.md)
 
 <!-- 
 

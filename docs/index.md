@@ -9,6 +9,8 @@ has_children: false
 
 #### Prof. Dr. Lena Gieseke | lena.gieseke@filmuniversitaet.de  
 
+---
+
 ![learningliftoff](https://www.learningliftoff.com/wp-content/uploads/2014/09/Prog.png)  
 [[learningliftoff]](https://www.learningliftoff.com/wp-content/uploads/2014/09/Prog.png)  
 
