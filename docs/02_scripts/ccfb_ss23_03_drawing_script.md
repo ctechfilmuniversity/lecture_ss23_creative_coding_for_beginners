@@ -403,7 +403,6 @@ noStroke();
 #### Color Function Calls - Example
 
 ```js
-// https://openprocessing.org/sketch/1254049
 // colorCommands.js
 
 function setup() {
