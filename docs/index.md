@@ -124,9 +124,7 @@ Please note that topics are subject to change during the course!
 
 ## Materials
 
-All materials are published on the [course website](https://ctechfilmuniversity.github.io/lecture_ss23_creative_coding_for_beginners/).
-
-* Each morning the material for that day is uploaded.
+All materials are published on the [course website](https://ctechfilmuniversity.github.io/lecture_ss23_creative_coding_for_beginners/). Each morning the material for that day is uploaded.
 
 ### Coding
 
@@ -134,7 +132,7 @@ All coding is done in with the [p5.js Editor](https://editor.p5js.org/). Please 
 
 ### Homework
 
-To hand in your homework assignment, you submit links to your sketches in an OwnCloud documents.
+To hand in your homework assignment, you submit links to your sketches in your OwnCloud document:
 
 * [The OwnCloud Folder](https://owncloud.gwdg.de/index.php/s/oA91WHT3HitvZlD), PW: coding
 * Open your file, add your text, links, etc.

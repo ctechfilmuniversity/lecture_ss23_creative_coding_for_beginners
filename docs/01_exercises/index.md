@@ -10,12 +10,12 @@ has_children: true
 Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  
   
 
-## Exercises
+# Exercises
 
-* [Exercises 01 - Introduction](01_intro/README.md)
+
 
 <!-- 
-
+* [Exercises 01 - Introduction](01_intro/README.md)
 * [Session 04 - Functions](04_functions/README.md)
 * [Session 05 - Tilings](05_tilings/README.md)
 * [Session 06 - Noise](06_noise/README.md)
