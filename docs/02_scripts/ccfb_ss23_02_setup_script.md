@@ -11,7 +11,7 @@ nav_order: 2
 * [Script 02 - Setup](#script-02---setup)
     * [Let’s Get To Know Each Other 😍](#lets-get-to-know-each-other-)
         * [Processing](#processing)
-        * [Resources \& Community](#resources--community)
+        * [Resources and Community](#resources-and-community)
     * [OpenProcessing](#openprocessing)
     * [First Steps 👶🏼](#first-steps-)
         * [Navigation](#navigation)
@@ -51,7 +51,7 @@ Spin-Offs
 * [Processing for Pi](https://pi.processing.org/)
 
 
-### Resources & Community
+### Resources and Community
 
 One of the aspects that made Processing, and now p5, so popular is its community and the vast amount of resources.
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Session
-nav_exclude: true
+parent: Exercises
+nav_order: 1
 ---
 
 **Procedural Generation and Simulation**  
