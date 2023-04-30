@@ -5,6 +5,10 @@ nav_order: 1
 has_children: false
 ---
 
+# Creative Coding for Beginners
+
+#### Prof. Dr. Lena Gieseke | lena.gieseke@filmuniversitaet.de  
+
 ![learningliftoff](https://www.learningliftoff.com/wp-content/uploads/2014/09/Prog.png)  
 [[learningliftoff]](https://www.learningliftoff.com/wp-content/uploads/2014/09/Prog.png)  
 
@@ -46,99 +50,89 @@ Please note that topics are subject to change during the course!
 
 ### Schedule
 
-| Session | Slot | Topic               | Subtopics               |
-|---------|------|---------------------|-------------------------|
-| 1       | 1    | Introductions       | Filmuni                 |
-|         |      |                     | Course                  |
-|         |      |                     | Participants            |
-|         |      |                     | Materials               |
-|         | 2    | Programming         | Why                     |
-|         |      |                     | What                    |
-|         |      |                     | Algorithms              |
-|         | 3    | Setup               | OpenProcessing          |
-|         |      |                     | Environment             |
-|         |      |                     | System Loop             |
-|         | 4    | Drawing             | Canvas                  |
-|         |      |                     | Drawing Commands        |
-|         |      |                     | Colors                  |
-| 2       | 1    | Program Flow        | Commands                |
-|         |      |                     | Functions calls         |
-|         |      |                     | Parentheses             |
-|         |      |                     | Formating               |
-|         | 2    | Interaction         | Mouse                   |
-|         |      |                     | Keyboard                |
-|         |      |                     | if-else                 |
-|         |      | Programming Example | Divide and conquer      |
-|         |      |                     | Screen Clearing         |
-|         | 3    | References          | Documentation           |
-|         |      |                     | Discover OpenProcessing |
-| 3       | 1    | Variables           | Data Types              |
-|         |      |                     | Scope                   |
-|         | 2    | Operators           | Example                 |
-|         |      |                     | Modulo                  |
-|         |      |                     | HSB                     |
-|         | 3    | Loops               | while                   |
-|         |      |                     | for                     |
-|         |      |                     | 2D Loops                |
-| 4       | 1    | Images I            | Loading & Displaying    |
-|         | 2    | Arrays              | Loop over all elements  |
-|         |      |                     | Example Confetti        |
-|         |      | Images II           | Image Data              |
-|         |      |                     | Pixel Data              |
-|         |      |                     | Image Manipulations     |
-| 5       | 1    | Functions           | Parameter               |
-|         |      |                     | Return value            |
-|         |      |                     | Why                     |
-|         | 2    | Code Structure      |                         |
-|         |      | Programming Example |                         |
-|         | 3    | Libraries           | Loading                 |
-|         |      |                     | Types                   |
-|         |      | Sound               | Loading & Playing       |
-|         |      |                     | Modes                   |
-|         | 4    | Wrap-Up             |                         |
-|         |      | Next Steps          |                         |
-|         |      | Follow-Up Sessions  |                         |
+| Session | Topic               | Subtopics               |
+| ------- | ------------------- | ----------------------- |
+| 1       | Introductions       | Filmuni                 |
+|         |                     | Course                  |
+|         |                     | Participants            |
+|         |                     | Materials               |
+|         | Setup               | p5.js Editor            |
+|         |                     | Environment             |
+|         |                     | System Loop             |
+|         | Drawing             | Canvas                  |
+|         |                     | Drawing Commands        |
+|         |                     | Colors                  |
+| 2       | Programming         | Why                     |
+|         |                     | What                    |
+|         |                     | Algorithms              |
+|         | Program Flow        | Commands                |
+|         |                     | Functions calls         |
+|         |                     | Parentheses             |
+|         |                     | Formatting              |
+| 3       | Interaction         | Mouse                   |
+|         |                     | Keyboard                |
+|         |                     | if-else                 |
+|         | Programming Example | Divide and conquer      |
+|         |                     | Screen Clearing         |
+|         | References          | Documentation           |
+|         |                     | Discover OpenProcessing |
+| 4       | Variables           | Data Types              |
+|         |                     | Scope                   |
+|         | Operators           | Example                 |
+|         |                     | Modulo                  |
+|         |                     | HSB                     |
+| 5       | Loops               | while                   |
+|         |                     | for                     |
+|         |                     | 2D Loops                |
+| 6       | Images I            | Loading & Displaying    |
+|         | Arrays              | Loop over all elements  |
+|         |                     | Example Confetti        |
+|         | Images II           | Image Data              |
+|         |                     | Pixel Data              |
+|         |                     | Image Manipulations     |
+| 7       | Functions           | Parameter               |
+|         |                     | Return value            |
+|         |                     | Why                     |
+|         | Code Structure      |                         |
+|         | Programming Example |                         |
+| 8       | Libraries           | Loading                 |
+|         |                     | Types                   |
+|         | Sound               | Loading & Playing       |
+|         |                     | Modes                   |
+| 9       | Wrap-Up             |                         |
+|         | Next Steps          |                         |
+|         | Follow-Up Sessions  |                         |
 
 
 
 ## Time and Place
 
-### 6.-10. September 2021
+* Tuesdays 11:00-13:30, Room 4301
+    * 2x 1h slots, with a break
+    * Half-half lecture-exercise
+        * E.g., you can start with the homework
 
-* Mornings 9:30-13:00
-    * 3x 1h lectures, with breaks between
-    * Slots ca. 9:30-10:30, 10:40-11:40, 11:50-12:50
-* Afternoon 14:00-17:00
-    * 14:00-14:15 Exercises introduction
-    * 14:15-16:15 Exercises on your own or in a team
-    * 16:15-16:45 Exercise solutions
-    * 16:45-17:00 Wrap-Up
 
-### Follow-up Sessions
+### 2 SWS + ECTS
 
-24.09 and 8.10.2021 (these dates are still up to discussion).
+* 1 for attending the lectures 
+* 2 for completing the homework assignments 
+* 1-3 for the final project
 
-### Zoom
-
-* Topic: Summer School: Creative Coding for Beginners  
-* [Zoom meeting link](https://us02web.zoom.us/j/85435762876): https://us02web.zoom.us/j/85435762876  
-* Meeting ID: 854 3576 2876  
-* Passcode: 305222  
 
 ## Materials
 
-All materials are published on the [course website](https://ctechfilmuniversity.github.io/lecture_creative_coding_for_beginners/).
+All materials are published on the [course website](https://ctechfilmuniversity.github.io/lecture_ss23_creative_coding_for_beginners/).
 
 * Each morning the material for that day is uploaded.
 
 ### Coding
 
-All coding is done in a [class environment](https://openprocessing.org/class/70403) on the website OpenProcessing.
+All coding is done in with the [p5.js Editor](https://editor.p5js.org/). Please sign up for an account.
 
-1. Create a account with [OpenProcessing](https://www.openprocessing.org)
-2. Sign up to the [class](https://openprocessing.org/class/70403)
+### Homework
 
-### Evaluation
+To hand in your homework assignment, you submit links to your sketches in an OwnCloud documents.
 
-Please complete the following [evaluation](https://cloud.evasys.de/evasys_06/online.php?p=V5X6J): https://cloud.evasys.de/evasys_06/online.php?p=V5X6J
-(In case you receive the link multiple times, you only have to complete the survey once 😊).
+* [The OwnCloud Folder](https://owncloud.gwdg.de/index.php/s/oA91WHT3HitvZlD), PW: coding
+* Open your file, add your text, links, etc.

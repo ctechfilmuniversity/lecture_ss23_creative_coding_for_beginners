@@ -155,8 +155,8 @@ template: inverse
 ## Schedule
 
 * Tuesdays 11:00-13:30
-    * 3x 1h slots, with breaks between
-    * Half-half lecture - free exercise
+    * 2x 1h slots, with a break
+    * Half-half lecture-exercise
         * E.g., you can start with the homework
 --
 * Weekly homework assignments
