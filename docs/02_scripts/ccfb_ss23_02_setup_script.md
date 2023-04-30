@@ -20,11 +20,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
         * [Resources and Community](#resources-and-community)
     * [OpenProcessing](#openprocessing)
     * [First Steps 👶🏼](#first-steps-)
-        * [Navigation](#navigation)
-        * [The Editor (Create a Sketch)](#the-editor-create-a-sketch)
-        * [Error Messages](#error-messages)
-        * [Saving a Sketch](#saving-a-sketch)
-        * [Uploading a Sketch to The Class](#uploading-a-sketch-to-the-class)
+    * [Sharing Results](#sharing-results)
 
 ---
 
@@ -41,9 +37,13 @@ p5 is based on the Java framework Processing. p5 is Processing running in a Webb
 
 Processing was developed in 2001 in the research group **Aesthetics and Computation of the Technology Media Labs at the Massachusetts Institute of Technology** by the students Ben Fry and Casey Reas. In 2012 the **Processing Foundation** (a non-profit corporation) was established.
 
-> Our mission is to promote software literacy within the visual arts, and visual literacy within technology-related fields — and to make these fields accessible to diverse communities. Our goal is to empower people of all interests and backgrounds to learn how to program and make creative work with code, especially those who might not otherwise have access to these tools and resources.”**
+> Our mission is to promote software literacy within the visual arts, and visual literacy within technology-related fields — and to make these fields accessible to diverse communities. Our goal is to empower people of all interests and backgrounds to learn how to program and make creative work with code, especially those who might not otherwise have access to these tools and resources.”
 
-[![youtube](https://img.youtube.com/vi/_8DMEHxOLQE/0.jpg)](https://www.youtube.com/watch?v=_8DMEHxOLQE)
+<!--  
+  
+[![youtube](https://img.youtube.com/vi/_8DMEHxOLQE/0.jpg)](https://www.youtube.com/watch?v=_8DMEHxOLQE)  
+  
+-->
 
 Spin-Offs
 
@@ -85,41 +85,27 @@ If you want to be nice to me, please use a profil picture for your account so th
 
 ## First Steps 👶🏼 
 
-In p5 a programm is called a *sketch*.
+In p5 a program is called a *sketch*.
 
-### Navigation
+![setup_01](img/02/setup_01.png)
 
-![openprocessing](img/02/openprocessing.png)
+To run your code, hit the arrow button in the top left corner:
 
+![setup_02](img/02/setup_02.png)
 
-### The Editor (Create a Sketch)
+Then you should see this:
 
-![openprocessing_02](img/02/openprocessing_02.png)
+![setup_03](img/02/setup_03.png)
 
+If you have an error in your code, it will show up in text-form below the sktech window. This window is called the console and p5 communicates with you through the console, for example it lists errors here:
 
-Under Options -> Editor -> Layout, I recommend that you chose the side by side layout.  
+![setup_04](img/02/setup_04.png)
 
-### Error Messages
+Always remember, errors are our friends! They are a integral part of programming. They help your to develop your sketch. Also, **always listen to what p5 has to say!**
 
-If you have an error in your code, it will show up in text-form below the sktech window. This window is called the console and p5 communicates with you through the console, for example it lists errors here.
+## Sharing Results
 
-![openprocessing_03](img/02/openprocessing_03.png)
-
-**Always listen to what p5 has to say!**
-
-### Saving a Sketch
-
-![openprocessing_04](img/02/openprocessing_04.png)
-
-
-### Uploading a Sketch to The Class
-
-1. Save your sketch.
-2. **Make sure that visibility is set to either `Anyone` or `My Classes`**
-3. Open the share panel (see 1. below)
-4. Submit to Class (see 2. below)
-
-![openprocessing_05](img/02/openprocessing_05.png)
+Under `File -> Share -> Fullscreen` you can get a link to share the output of your sketch with friends and family. Your grandma will be very proud!
 
 ---
 

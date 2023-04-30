@@ -42,7 +42,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 
 ---
 
-Now, you are learing how to draw these friendly fellas:
+Now, you are learning how to draw these friendly fellas:
 
 ![drawing_01](img/03/drawing_01.png)
 
