@@ -2,7 +2,7 @@
 layout: default
 title: Slides
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
 # Creative Coding For Beginners
@@ -15,15 +15,12 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 In this section you find all slides for the course.
 
 
-<!-- 
-
-
 * [Slides 01 - Intro](ccfb_ss23_01_intro_slides.html)
 * [Slides 03 - Setup](ccfb_ss23_03_setup_slides.html)
 * [Slides 04 - Drawing](ccfb_ss23_04_drawing_slides.html)
   
   
-
+<!-- 
   
 * [Slides 02 - Programming](ccfb_ss23_02_programming_slides.html)
 * [How to make pretty things fast?](https://docs.google.com/presentation/d/1q0j_R7iYDaS29MWqqsv_VctMNgsXmgDx7n4VicS-uSk/edit#slide=id.p)

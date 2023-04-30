@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Session
+title: Exercise 01
 parent: Exercises
 nav_order: 1
 ---
@@ -12,13 +12,13 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 
 ---
-# Session 01 - Introduction (20 points)
+# Exercise 01 - Introduction (20 points)
 
 This session is due on **Monday, April 24** and we will discuss the results on Wednesday, April 26.  
 
 This assignment should take < 6h (probably much less). If you need longer, please comment on that in your submission.
 
-* [Session 01 - Introduction (20 points)](#session-01---introduction-20-points)
+* [Exercise 01 - Introduction (20 points)](#exercise-01---introduction-20-points)
     * [Syllabus](#syllabus)
         * [Task 01.01](#task-0101)
     * [Introduction](#introduction)

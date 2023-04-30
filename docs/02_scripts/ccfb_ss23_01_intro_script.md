@@ -5,15 +5,14 @@ parent: Scripts
 nav_order: 1
 ---
 
-# Creative Coding For Beginners
+**Creative Coding For Beginners**  
   
 Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  
   
-
+---
 
 # Script 01 - Introduction
 
-* [Creative Coding For Beginners](#creative-coding-for-beginners)
 * [Script 01 - Introduction](#script-01---introduction)
     * [This Course](#this-course)
         * [Learning Objectives](#learning-objectives)
