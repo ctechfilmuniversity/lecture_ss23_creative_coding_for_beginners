@@ -51,16 +51,11 @@ Bullet points as answer are sufficient.
 ## Task 01.04 - Drawing
 
 1. Draw the following house by *combining* shapes. 
-2. Draw the same house with `beginShape` and `endShape`. 
-
-![house](img/house.png)
-
+2. Draw the same house with `beginShape` and `endShape`.  
+![house](img/house.png)  
 3. Draw a [creative image](https://editor.p5js.org/legie/sketches/ZGkf_1vzt) with simple shapes. This can be anything.
-
-4. Optional: Draw a smiley with simple shapes. 
-
-For this task, you will need to have a look at [arcs](../../02_scripts/ccfb_ss23_03_drawing_script.md#arc).
-
+4. Optional: Draw a smiley with simple shapes.   
+For this task, you will need to have a look at [arcs](../../02_scripts/ccfb_ss23_03_drawing_script.md#arc).  
 ![face](img/face.png)
 
 
