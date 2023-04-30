@@ -5,9 +5,15 @@ parent: Scripts
 nav_order: 2
 ---
 
+# Creative Coding For Beginners
+  
+Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  
+  
+
 
 # Script 02 - Setup
 
+* [Creative Coding For Beginners](#creative-coding-for-beginners)
 * [Script 02 - Setup](#script-02---setup)
     * [Let’s Get To Know Each Other 😍](#lets-get-to-know-each-other-)
         * [Processing](#processing)
