@@ -61,7 +61,7 @@ Bullet points as answer are sufficient.
 
 For this task, you will need to have a look at [arcs](../../02_scripts/ccfb_ss23_03_drawing_script.md#arc).
 
-![drawing_01](img/drawing_01.png)
+![face](img/face.png)
 
 
 *Submission*: Add links to your sketches in your OwnCloud file.
