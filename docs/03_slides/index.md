@@ -15,10 +15,13 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 In this section you find all slides for the course.
 
 * [Slides 01 - Intro](ccfb_ss23_01_intro_slides.html)
-* [Slides 02 - Programming](ccfb_ss23_02_programming_slides.html)
 * [Slides 03 - Setup](ccfb_ss23_03_setup_slides.html)
 * [Slides 04 - Drawing](ccfb_ss23_04_drawing_slides.html)
+  
+  
 <!-- 
+  
+* [Slides 02 - Programming](ccfb_ss23_02_programming_slides.html)
 * [How to make pretty things fast?](https://docs.google.com/presentation/d/1q0j_R7iYDaS29MWqqsv_VctMNgsXmgDx7n4VicS-uSk/edit#slide=id.p)
 * [Slides 05 - Program Flow](ccfb_ss23_05_flow_slides.html)
 * [Slides 06 - Interaction](ccfb_ss23_06_interaction_slides.html) 
@@ -30,6 +33,7 @@ In this section you find all slides for the course.
 * [Slides 12 - Functions](ccfb_ss23_12_function_slides.html) 
 * [Slides 13 - Libraries](ccfb_ss23_13_libraries_slides.html) 
 * [Slides 14 - Wrap-Up](ccfb_ss23_13_wrapup_slides.html)  
-* -->
+  
+-->
 
 Also see the script for each topic.
