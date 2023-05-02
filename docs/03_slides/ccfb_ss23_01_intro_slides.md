@@ -9,7 +9,10 @@ class: center, middle, inverse
 
 Prof. Dr. Lena Gieseke | l.gieseke@filmuniversitaet.de 
 
+
 ---
+template:inverse
+
 
 # Welcome 👋🏻 👋🏾 👋
 
