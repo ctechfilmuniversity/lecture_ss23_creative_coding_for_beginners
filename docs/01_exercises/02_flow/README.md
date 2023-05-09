@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercise 01
+title: Exercise 02
 parent: Exercises
 nav_order: 1
 ---
@@ -81,9 +81,8 @@ function draw()
 
 ## Task 02.03 - Interaction
 
-Create a sketch up to your liking and that uses interaction and / or animation. The sketch does not need to be particularly creative or beautiful. The goal is to practice the learned functionalities.
+Create a sketch up to your liking and that uses interaction and / or [animation](https://editor.p5js.org/legie/sketches/ZGkf_1vzt). The sketch does not need to be particularly creative or beautiful. The goal is to practice the learned functionalities.
 
-[<iframe src="https://editor.p5js.org/legie/full/ZGkf_1vzt"></iframe>](https://editor.p5js.org/legie/sketches/ZGkf_1vzt)
   
 
 *Submission*: Add a link to your sketch in your OwnCloud file.
