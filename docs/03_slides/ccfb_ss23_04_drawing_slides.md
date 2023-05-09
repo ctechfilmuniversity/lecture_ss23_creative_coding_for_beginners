@@ -18,7 +18,6 @@ layout: false
 
 ## Function Calls
 
-Remember? Hello World!
 
 ```js
 point(10,10);
