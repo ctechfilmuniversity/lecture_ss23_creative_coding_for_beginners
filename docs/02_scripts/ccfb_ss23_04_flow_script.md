@@ -430,8 +430,6 @@ function keyPressed() {
 ```
 
 
-
-
 ## Summary
 
 * `{}` define blocks of code.
