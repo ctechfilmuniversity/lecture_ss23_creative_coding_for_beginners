@@ -27,6 +27,7 @@ This session is due on **Monday, May 15th**.
 Recap the scripts:
 
 * [Program Flow and Interaction](../../02_scripts/ccfb_ss23_04_flow_script.md)
+* [Color Systems](../../02_scripts/ccfb_ss23_05_colorsystems_script.md)
 
 *Submission*: -
 

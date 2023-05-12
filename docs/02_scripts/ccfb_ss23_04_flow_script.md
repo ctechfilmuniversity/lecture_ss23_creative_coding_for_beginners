@@ -25,6 +25,7 @@ nav_order: 4
             * [Careful](#careful)
             * [Mouse Position](#mouse-position)
         * [Keyboard Interaction](#keyboard-interaction)
+    * [The Final Sketch](#the-final-sketch)
     * [Summary](#summary)
 
 ---
@@ -51,9 +52,7 @@ Specifically you
 * understand the basics of how code is structured and executed,
 * understand what function definition and function call are,
 * understand the difference between a function call and a code block,
-* know the importance of code readability,
-* know how to implement user mouse and key inputs,
-* know how to implement if, if..else, and while conditional statements, and
+* know the importance of code readability, and
 * with that understand how you can control the flow of a program.
 
 
@@ -166,7 +165,7 @@ draw(){fill(0,                   0,255);
 function setup() {createCanvas(400, 400); background(255); }function draw() {fill(0,0,255);stroke(255, 0 , 0);strokeWeight(10);ellipse(125, 125, 100, 100);}
 ```
 
-*On a Side Note:* In the openProcessing editor, the hotkey `command+B` will auto-indent the code, meaning, structure the code properly for you.
+*On a Side Note:* In the p5 editor, `Edit -> Tidy Code` will auto-indent the code, meaning, structure the code properly for you.
 
 ## Functions
 
@@ -244,7 +243,6 @@ The code we have learned to use as base structure is actually two function defin
 
 
 ```javascript
-
 function setup() {
 
     ...
@@ -395,9 +393,7 @@ We still need to learn all about variables. This is not the time. For now you ca
 
 ```js
 // colorCircleMove
-
 // (the rest of the code remains the same)
-
 
 function draw() {
     ellipse(mouseX, mouseY, 50, 50);
@@ -420,15 +416,50 @@ Again, p5 calls this function for us whenever a key is pressed.
 
 ```js
 // Color Circle Key Input
-
 // (the rest of the code remains the same)
 
 function keyPressed() {
 
-    fill(random(255), random(255), random(255));
+    background (255);
 }
 ```
 
+## The Final Sketch
+
+With all of the above, we have now in total:
+
+
+```js
+function setup() {
+  createCanvas(250, 250);
+  background(255);
+  noStroke();
+  
+  // The circle is in the beginning white
+  // (this is also the default and we
+  // don't really need this line)
+  fill(255);
+}
+
+function draw() {
+  ellipse(mouseX, mouseY, 100, 100);
+}
+
+// Called if the mouse was pressed
+function mousePressed() {
+
+  // Set the fill color to
+  // randomly chosen values
+  fill(random(255), random(255), random(255));
+}
+
+// Called when any key is pressed
+function keyPressed() {
+
+  // Fill the background with white
+  background(255);
+}
+```
 
 ## Summary
 
