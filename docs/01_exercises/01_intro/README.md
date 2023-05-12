@@ -60,3 +60,7 @@ For this task, you will need to have a look at [arcs](../../02_scripts/ccfb_ss23
 
 
 *Submission*: Add links to your sketches in your OwnCloud file.
+
+---
+
+*Happy Starting!*
