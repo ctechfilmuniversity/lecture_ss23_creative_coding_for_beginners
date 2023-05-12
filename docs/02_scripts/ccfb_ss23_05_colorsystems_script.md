@@ -5,6 +5,11 @@ parent: Scripts
 nav_order: 4
 ---
 
+# Creative Coding For Beginners
+  
+Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de  
+  
+
 
 # Script 05 - Color Systems
 
