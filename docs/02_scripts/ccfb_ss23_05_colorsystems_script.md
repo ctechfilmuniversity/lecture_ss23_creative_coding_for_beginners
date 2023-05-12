@@ -8,16 +8,16 @@ nav_order: 4
 
 # Script 05 - Color Systems
 
-![colorsystem_01](../05/colorsystem_01.jpg)  
+![colorsystem_01](../img/05/colorsystem_01.jpg)  
 [[programmingdesignsystems]](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html) *Goethe's color circle with magenta, yellow, and blue primary colors.*
   
-![colorsystem_02](../05/colorsystem_02.jpg)  
+![colorsystem_02](../img/05/colorsystem_02.jpg)  
 [[programmingdesignsystems]](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html) *Philipp Otto Runge's color sphere.*
   
-![colorsystem_03](../05/colorsystem_03.jpg)  
+![colorsystem_03](../img/05/colorsystem_03.jpg)  
 [[programmingdesignsystems]](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html) *Michel Eugène Chevreul's color sphere.*
   
-![colorsystem_04](../05/colorsystem_04.jpg)  
+![colorsystem_04](../img/05/colorsystem_04.jpg)  
 [[programmingdesignsystems]](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html) *Visualization of Albert Henry Munsell's color tree from the 1943 renotation.*
 
 
