@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercise 02
+title: Exercise 03
 parent: Exercises
 nav_order: 1
 ---
