@@ -47,7 +47,6 @@ For this topic, we are working with [cats in boxes](https://www.youtube.com/watc
 * Variables
     * Data Types
     * Scope
-* Operators
 * Animation
 
 
