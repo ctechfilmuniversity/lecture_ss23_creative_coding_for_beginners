@@ -112,10 +112,6 @@ function draw() {
 
 Improving your programming skills is a life long tasks. One of the skills of good programmers is to being able to access and learn new aspects about programming on their own. In this tasks you practice to understand new content on your own. For that read [Script 07 - Variables](../../02_scripts/ccfb_ss23_07_variables_script.md). This script explains topics that we haven't covered in class yet. Try to understand variables as best as you can but also worry not! We will go over the most important aspects one more time in class.
 
-```diff
-The script is not ready yet. I will add it by the end of the week!
-```
-
 *Submission*: -
 
 ## Task 03.04 - Conditionals
