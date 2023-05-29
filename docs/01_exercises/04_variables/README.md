@@ -124,7 +124,7 @@ Make at least one adjustment to the code in 4.1. to make it look different
 
 ## Task 04.03 - Inspiration
 
-Find one code example that inspires you. Explain briefly what you like about the example.
+Find one code example that inspires you. You can use, e.g., the collections that are listed in [Script 02 - Setup: Resources and Community](../../02_scripts/ccfb_ss23_02_setup_script.md#resources-and-community). Explain briefly what you like about the example.
 
 *Submission*: Add a link to the example and your explanation as text in your OwnCloud file.
 
