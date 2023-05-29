@@ -20,6 +20,7 @@ In this section you find all slides for the course.
 * [Slides 04 - Drawing](ccfb_ss23_04_drawing_slides.html)
 * [Slides 05 - Program Flow & Interaction](ccfb_ss23_05_flow_slides.html)
 * [Slides 06 - Conditionals](ccfb_ss23_06_conditionals_slides.html)
+* [Slides 07 - Variables](ccfb_ss23_07_variables_slides.html)
   
   
 <!-- 
