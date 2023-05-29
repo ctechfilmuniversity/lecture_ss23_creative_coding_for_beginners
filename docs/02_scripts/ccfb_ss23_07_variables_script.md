@@ -31,6 +31,7 @@ nav_order: 7
         * [Change the Color of the Circle Automatically](#change-the-color-of-the-circle-automatically)
             * [Why Does the Color Stop Changing?](#why-does-the-color-stop-changing)
         * [Change the Position of the Circle Automatically](#change-the-position-of-the-circle-automatically)
+    * [Arithmetic Operators](#arithmetic-operators)
     * [Summary](#summary-1)
     * [References](#references)
 
@@ -868,6 +869,123 @@ positionX = positionX + speedX;
 
 ```
 
+
+
+## Arithmetic Operators
+
+Arithmetic operators give us the option to use short-cuts for computations and to make our code a bit more concise.
+
+| Arithmetic               | Operator |
+|--------------------------|----------|
+| Addition                 | `+`      |
+| Subtraction              | `-`      |
+| Multiplication           | `*`      |
+| Division                 | `/`      |
+| Increment value with one | `++`     |
+| Decrement value with one | `--`     |
+
+```js
+let value = 10;
+
+value = value + 1; //now value is 11
+
+// This is the same as the line above
+value++; //now value is 12
+```
+
+```js
+let value = 10;
+
+value++; //now value is 11
+value--; //now value is 10 again
+```
+
+If you want to work with the current value of the variable often this short cut is used:
+
+
+```js
+let num = 12;
+
+num = num + 20; //now value is 32
+
+// This is the same as the line above
+num +=20; //now num is 52
+```
+
+```js
+let num = 10;
+
+num +=20; //now num is 30
+num *=2
+```
+
+```js
+let num = 10;
+
+num +=20; //now num is 30
+num *=2; //now num is 60
+```
+
+Hence, the above code example we can shorten to:
+
+
+```js
+let hue = 0;
+let positionX = 0;
+let positionY = 0;
+let speedX = 5;
+let speedY = 5;
+
+function setup() {
+    createCanvas(windowWidth, windowHeight); 
+
+    colorMode(HSB);
+    background(100);
+    fill(hue, 100, 100);
+    noStroke();
+}
+
+function draw() {
+
+    // Using the colorRed variable
+    // as value for the red channel
+    fill(hue, 100, 100);
+    ellipse(positionX, positionY, 20, 20);
+    
+    // POSITION
+    // Increasing the position values
+    positionX += speedX;
+    positionY += speedY;
+  
+    // If the x position runs out of the canvas, 
+    // reset the position to 0
+    if(positionX < 0 | positionX > windowWidth) {
+        speedX *= -1;
+    }
+    
+    // If the y position runs out of the canvas, 
+    // reset the position to 0
+    if(positionY < 0 | positionY > windowHeight) {
+        speedY *=  -1;
+    }
+  
+    // HUE
+    // Increasing the value
+    // in each draw() call
+    hue += 1; 
+    // We check whether the value of
+    // hue becomes larger than 360,
+    // and if so we reset it back to zero.
+    if(hue > 360){
+        hue = 0;
+    }
+}
+```
+
+
+
+
+---
 
 Good job on our side! 😁 We are starting to become real programmers!!
 
