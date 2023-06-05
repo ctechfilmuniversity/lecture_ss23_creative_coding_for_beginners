@@ -429,7 +429,7 @@ template:inverse
 ---
 ## Variable Scope
 
-Scope refers to the area in the code where you can access the variable, meaning *where it exists*..
+Scope refers to the area in the code where you can access the variable, meaning *where it exists*.
 
 --
 
