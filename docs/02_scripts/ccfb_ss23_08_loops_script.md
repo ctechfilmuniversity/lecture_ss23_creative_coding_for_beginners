@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Script 06 - Loops
+title: Script 08 - Loops
 parent: Scripts
 nav_order: 6
 ---
 
 
-# Script 06 - Loops
+# Script 08 - Loops
 
-* [Script 06 - Loops](#script-06---loops)
+* [Script 08 - Loops](#script-08---loops)
     * [The 10 Print Pattern](#the-10-print-pattern)
         * [Spacing](#spacing)
         * [Probability](#probability)
