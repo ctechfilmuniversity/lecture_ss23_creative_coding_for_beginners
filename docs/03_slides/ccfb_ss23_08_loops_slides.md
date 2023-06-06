@@ -100,7 +100,7 @@ The scope is defined by the surrounding `{}`, where you created the variable:
 
 Good for
 
-* your variable is everywhere in your code visible
+* having your variable visible everywhere in your code 
 * saving values between different function calls, e.g., different `draw` calls
 
 --
@@ -264,12 +264,14 @@ while (condition)
 // While Loop
 
 let counter = 0;    // Iteration counter
+
 while (counter < 3) { // Loop condition
   
     print('wow');     // Loop activity
 
     counter += 1;       // Increase counter
 }
+
 print('All done…');
 ```
 
@@ -293,6 +295,7 @@ print('All done…');
 function draw() {
 
     let counter = 0; // Iteration counter
+    
     while (counter < 30) { // Loop condition
     
         ellipse(mouseX + random(30), mouseY + random(30), 2, 2);
@@ -320,6 +323,8 @@ What is exactly happening here? What is repeated when?
 * https://www.geeksforgeeks.org/find-if-a-point-lies-inside-or-on-circle/
 * https://stackoverflow.com/questions/481144/equation-for-testing-if-a-point-is-inside-a-circle
 
+---
+template:inverse
 
 ### Quick Detour
 
@@ -328,12 +333,42 @@ What is exactly happening here? What is repeated when?
 ---
 ## Test If A Point Is Inside A Circle
 
-If you are in Cartesian Coordinates and you have the `center point` and the `radius` given, a circle is defined by
+In an x–y Cartesian coordinate system, the circle with
 
-In an x–y Cartesian coordinate system, the circle with centre coordinates (a, b) and radius r is the set of all points (x, y) such that
+* centre coordinates $(centerX, centerY)$
+* radius $r$
+
+is the set of all points $(x, y)$ such that
+
+$(x-centerX)^2 + (x-centerY)^2 = r^2$
+
+.center[<img src="../02_scripts/img/08_loops/circle_01.png" alt="circle_01" style="width:40%;">[[wiki]](https://www.wikiwand.com/en/Circle)]
+
+---
+## Test If A Point Is Inside A Circle
+
+To test if a point is *inside* a circle we have to test for
+
+$(x-centerX)^2 + (x-centerY)^2 <= r^2$
+
+--
+
+```js
+//https://editor.p5js.org/legie/sketches/Ax-1Dp2Ga
+
+if ((x - centerX) * (x - centerX) +
+    (y - centerY) * (y - centerY) <= r * r) {
+
+        // Points are inside
+    }
+```
 
 
-TODO:
+???
+.task[COMMENT:]  
+
+* https://editor.p5js.org/legie/sketches/Ax-1Dp2Ga
+
 
 ---
 

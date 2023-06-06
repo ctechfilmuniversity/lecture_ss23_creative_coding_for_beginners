@@ -14,6 +14,12 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 
 This session is due on **Monday, June 19th**.  
 
+---
+
+**There is no class on June 13!**
+
+---
+
 * [Creative Coding For Beginners](#creative-coding-for-beginners)
 * [Exercise 05 - Loops](#exercise-05---loops)
     * [Task 05.01 - A Grid Pattern](#task-0501---a-grid-pattern)
