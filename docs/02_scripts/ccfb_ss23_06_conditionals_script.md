@@ -2,7 +2,7 @@
 layout: default
 title: Script 06 - Conditionals
 parent: Scripts
-nav_order: 4
+nav_order: 6
 ---
 
 # Creative Coding For Beginners
