@@ -2,7 +2,7 @@
 layout: default
 title: Script 05 - Color Systems
 parent: Scripts
-nav_order: 4
+nav_order: 5
 ---
 
 # Creative Coding For Beginners

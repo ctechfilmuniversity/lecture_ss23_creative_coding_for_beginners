@@ -340,7 +340,7 @@ In an x–y Cartesian coordinate system, the circle with
 
 is the set of all points $(x, y)$ such that
 
-$(x-centerX)^2 + (x-centerY)^2 = r^2$
+$(x-centerX)^2 + (y-centerY)^2 = r^2$
 
 .center[<img src="../02_scripts/img/08_loops/circle_01.png" alt="circle_01" style="width:40%;">[[wiki]](https://www.wikiwand.com/en/Circle)]
 
@@ -349,7 +349,7 @@ $(x-centerX)^2 + (x-centerY)^2 = r^2$
 
 To test if a point is *inside* a circle we have to test for
 
-$(x-centerX)^2 + (x-centerY)^2 <= r^2$
+$(x-centerX)^2 + (y-centerY)^2 <= r^2$
 
 --
 
