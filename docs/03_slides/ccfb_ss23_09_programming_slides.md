@@ -521,24 +521,32 @@ You can imagine p5 as an extension for JavaScript.
 ---
 .header[What Are Programming Languages?]
 
-## Algorithm?
+## Syntax
+
+--
+
+*[…] the syntax of a computer language is the set of rules that defines the **combinations of symbols** that are considered to be a **correctly structured** document or fragment in that language.*
+
+
+---
+.header[What Are Programming Languages?]
+
+## Algorithm
+
+--
 
 
 *[…] an algorithm is a set of instructions, **typically to solve a class of problems** or perform a computation.*
 
 *Algorithms are **unambiguous** specifications for performing calculation, data processing, automated reasoning, and other tasks.*
 
----
-.header[What Are Programming Languages?]
-
-## Syntax?
-
-*[…] the syntax of a computer language is the set of rules that defines the **combinations of symbols** that are considered to be a **correctly structured** document or fragment in that language.*
 
 ---
 .header[What Are Programming Languages?]
 
-## Algorithms
+## Algorithm
+
+--
 
 *Give instructions for cleaning the dishes.*
 
@@ -558,22 +566,13 @@ You can imagine p5 as an extension for JavaScript.
 
 * (plate, sponge, water, tap, soap, dirt)
 
----
-.header[What Are Programming Languages?]
-
-## Algorithms
-
-*Give instructions for cleaning the dishes.*
-
-
-* Do you do different things based on **conditions**? 
-* How do you use the words **if** or **otherwise** in your instructions? 
-* Do you use the word **repeat** in your instructions?
 
 ---
 .header[What Are Programming Languages? | Algorithms]
 
 ## Hello World 👋🏻
+
+--
 
 * Established as first “sanity check” for a programming language
 
@@ -612,20 +611,21 @@ You can imagine p5 as an extension for JavaScript.
 
 [[wikipedia]](https://de.wikipedia.org/wiki/Liste_von_Hallo-Welt-Programmen/H%C3%B6here_Programmiersprachen)
 
+???
 
----
-.header[What Are Programming Languages? | Algorithms]
+.task[TASK:]  
+
 
 ## Hello World in p5.js?
 
 p5.js is optimized for designer and artists to develop graphics, sound and interaction.
 
---
+
 
 * Input: Program Code
 * Output: Graphics
 
---
+
 
 ```js
 
@@ -639,9 +639,7 @@ function draw() {
 }
 ```
 
-???
 
-.task[TASK:]  
 
 * Show [Sketch](https://openprocessing.org/sketch/1011532)
 
@@ -649,26 +647,20 @@ function draw() {
 [[1]](https://de.wikipedia.org/wiki/Liste_von_Hallo-Welt-Programmen/H%C3%B6here_Programmiersprachen)
 
 
----
-.header[What Are Programming Languages?]
 
 ## Shouldn’t We Rather Learn ___?
 
---
 
 * The friend of my friend of my friend says…
 
---
 * Which programming language someone prefers is somewhat of a religion and also depends on what you are used to.
 
---
 * There is always the next “hot topics”.
 
---
 * The one programming language to learn doesn’t exists.
     * They all have advantages and disadvantages.
     * It depends on specific application scenarios.
---
+
 * p5.js is a good introduction
     * Especially for designer, artists, etc.
     * Everything you learn with p5.js, you can transfer to another programming language
