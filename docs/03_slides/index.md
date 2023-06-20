@@ -22,6 +22,8 @@ In this section you find all slides for the course.
 * [Slides 06 - Conditionals](ccfb_ss23_06_conditionals_slides.html)
 * [Slides 07 - Variables](ccfb_ss23_07_variables_slides.html)
 * [Slides 08 - Loops](ccfb_ss23_08_loops_slides.html) 
+* [Slides 09 - Programming](ccfb_ss23_09_programming_slides.html) 
+* [Slides 10 - Images](ccfb_ss23_10_images_slides.html) 
   
   
 <!-- 

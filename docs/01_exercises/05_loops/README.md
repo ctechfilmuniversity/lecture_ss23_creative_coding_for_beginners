@@ -40,13 +40,13 @@ Here an example:
 
 ![pattern_01](img/pattern_01.png)
 
-*Submission*: Add a link to the example and your explanation as text in your OwnCloud file.
+*Submission*: Add a link to your sketch in your OwnCloud file.
 
 #### Task 05.03 - Interactive Parameters
 
 Make your pattern interactive by mapping at least one changeable visual characteristics to, e.g., the mouse and / or keys.
 
-*Submission*: Add a link to the example and your explanation as text in your OwnCloud file.
+*Submission*: Add a link to your sketch in your OwnCloud file.
 
 
 ---
