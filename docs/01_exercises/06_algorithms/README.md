@@ -40,7 +40,7 @@ https://www.wikihow.com/Think-Algorithmically
 
 ## Task 06.02 - Images - NOT READY YET
 
-* Re-cap [Script 09 - Images](../../02_scripts/ccfb_ss23_09_images_script.md) (The script will be uploaded by Friday the latest).
+* Re-cap [Script 09 - Images](../../02_scripts/ccfb_ss23_09_images_script.md).
 
 ## Task 06.02 - Image Manipulation
 
