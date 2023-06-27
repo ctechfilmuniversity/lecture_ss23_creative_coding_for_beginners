@@ -577,7 +577,7 @@ let mixed = [ 'Apple', 2, true, 'hehe'];
 ```js
 let fruits = ["Apple", "Orange", "Plum"];
   
-print(fruits[i]);
+print(fruits[1]);
 ```
 
 --
