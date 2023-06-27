@@ -57,14 +57,17 @@ let radius = [];
 To animate all circles and to access the arrays, use, e.g., a for-loop:
 
 ```js
+...
 for (let i = 0; i < numCircles; i++) {
 
     ...
 
     fill(hue[i], 100, 100);
     circle(positionX[i], positionY[i], radius[i]);
-}
 
+    ...
+}
+...
 ```
 
 *Submission*: Add a link to your sketch in your OwnCloud file.
@@ -73,7 +76,12 @@ for (let i = 0; i < numCircles; i++) {
 
 * Read [Script 11 - Functions](../../02_scripts/ccfb_ss23_11_functions_script.md)
 
-Use the [code of step 2 of the game](https://editor.p5js.org/legie/sketches/m5Z-lTkXB) and add functions to the code to make it more readable.
+Use the [code of step 2 of the game](https://editor.p5js.org/legie/sketches/m5Z-lTkXB) and add functions to the code to make it more readable. The goal is to keep `setup()` and `draw()` as organized as possible.
+
+*Hints*:  
+
+* I suggest two new functions for the player and two for the background.
+
 
 
 *Submission*: Add a link to your sketch in your OwnCloud file.

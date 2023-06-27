@@ -9,16 +9,78 @@ class: center, middle, inverse
 Prof. Dr. Lena Gieseke | l.gieseke@filmuniversitaet.de 
 
 ---
+layout:false
 # Algorithmic Thinking
 
 How do you decide what to wear in the morning?
 
+---
+.[Algorithmic Thinking]
+
+## How To Play This Game?
+
+Which parts are matching and which differ from player to player? Using pattern matching and abstraction!
+
+.center[<img src="../02_scripts/img/algorithms/text_01.png" alt="text_01" style="width:100%;">]
 
 ---
+.[Algorithmic Thinking]
+
+## How To Play This Game?
+
+Which parts are matching and which differ from player to player? Using pattern matching and abstraction!
+
+.center[<img src="../02_scripts/img/algorithms/text_02.png" alt="text_02" style="width:100%;">]
+
+
+---
+.[Algorithmic Thinking]
+
+## How To Play This Game?
+
+Which parts are matching and which differ from player to player? Using pattern matching and abstraction!
+
+<img src="../02_scripts/img/algorithms/text_02.png" alt="text_02" style="width:70%;">
+
+  
+Color:
+1) Red
+2) Blue
+3) Yellow
+4) Green
+5) Pink
+6) Black
+  
+Items:
+1) Cell Phone
+2) Pineapple
+3) Book
+4) Cupcake
+5) Tentacle
+6) Bow
+  
+Part:
+1) Head
+2) Tail
+3) Foot
+4) Belly
+5) Nose
+6) Back
+
+
+???
+.task[COMMENT:]  
+
+Figure out how to play this game by looking at the players’ phrases below. Circle the matching parts and underline words that are different from player to player. The first matching section has been circled for you.
+
+
+---
+template:inverse
+
 # Images
 
 ---
-layout:false
+
 
 ## Images
 
@@ -120,7 +182,7 @@ https://editor.p5js.org/legie/sketches/WWsJj-V0D
 * The lines have random end points
 
 --
-* The color is picked at the lines's from the image
+* The color is picked from the image at the lines position
   
 --
 
@@ -175,6 +237,7 @@ https://editor.p5js.org/legie/sketches/WWsJj-V0D
 ---
 ## Homework
 
+## Task 06.02 - Image Manipulation
 
 ---
 template:inverse
@@ -287,9 +350,15 @@ if (frameCount % animationSlowDown == 0) { // Every 5th frame
 
 ## The Modulo Operator %
 
---
-
 The modulo operator (%) returns for a division with a whole number the rest of that division
+
+```html
+1 / 5 is 0 with rest 1
+2 / 5 is 0 with rest 2
+...
+```
+
+--
 
 ```js
 0 % 5 = 0       <=
@@ -304,15 +373,8 @@ The modulo operator (%) returns for a division with a whole number the rest of t
 ...
 ```
 
---
 
-Because
 
-```html
-1 / 5 is 0 with rest 1
-2 / 5 is 0 with rest 2
-...
-```
 
 ---
 .header[Spritesheet Animation]
@@ -370,7 +432,7 @@ This can't be good:
 ```
 
 --
-Rule of thumb: don't copy code more than three times.
+Rule of thumb: don't copy similar code more than three times.
 
 --
 
@@ -383,11 +445,13 @@ Instead look for patterns, abstractions, etc.
 What if we could save all images in one variable and access that variable with `imgIndex`?
 
 ```js
-let allImages = []; 
+
+// Pseudo code
+let allImages = image1, image2, image3; 
 
 ...
 
-image(allImages[imgIndex], 0, 0);
+image("take the first image in allImages", 0, 0);
 ```
 
 
@@ -399,14 +463,16 @@ image(allImages[imgIndex], 0, 0);
 
 Arrays let us save multiple elements into **one** variable.  
 
---
+
+???
+.task[COMMENT:]  
 
 That makes it easy to work with many, many values at the same time, while still saving for each element a different value.
 
 
 ---
 
-## Arrays
+## Array
 
 Conceptually, you can imagine an array as follows. While a "normal" variable looks like:
 
@@ -418,7 +484,7 @@ let molly = 🐱;
 
 ---
 
-## Arrays
+## Array
 
 Then an array can be described as:
 
@@ -430,7 +496,7 @@ let kitties = [🐱,🐯];
 
 
 ---
-.[Arrays]
+.header[Array]
 
 ## Example
 
@@ -478,12 +544,13 @@ function draw() {
 
 
 ---
-.[Arrays]
+.header[Array]
 
 ## Definition & Initalization
 
 ```js
 let variableName = [value1, value2];
+let variableName2 = [];
 ```
 
 --
@@ -510,7 +577,7 @@ let mixed = [ 'Apple', 2, true, 'hehe'];
 ```js
 let fruits = ["Apple", "Orange", "Plum"];
   
-fruits[1];
+print(fruits[i]);
 ```
 
 --
@@ -675,10 +742,10 @@ template:inverse
 The array object comes with the functions `push` and `pop`.  
 
 --
-* `push` appends an element to the end to an array.  
+* `push` appends an element to the end to an array  
 
 --
-* `pop` removes the last element of an array.
+* `pop` removes the last element of an array
 
 --
 
@@ -712,6 +779,13 @@ print(fruits) // ["Apple", "Orange", "Plum"];
   
 [→ p5 Editor - Game Step 01](https://editor.p5js.org/legie/sketches/6XvbzAE8Z)  
 [→ p5 Editor - Game Step 02](https://editor.p5js.org/legie/sketches/m5Z-lTkXB)
+
+
+???
+.task[COMMENT:]  
+
+* https://editor.p5js.org/legie/sketches/lLIapghZK
+
 
 ---
 
