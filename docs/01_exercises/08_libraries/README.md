@@ -47,7 +47,7 @@ Now, we will implement the jumping of our little player guy.
 
 The result of this task should look like (use the up arrow key to jump):
 
-<iframe src="https://editor.p5js.org/legie/full/xEyouFkwg" width="480px" height="360px"></iframe>
+<iframe src="https://editor.p5js.org/legie/full/xEyouFkwg" width="600px" height="450px"></iframe>
 
 If you want a challenge, try to implement the guy's jumping on your own.  
 
