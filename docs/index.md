@@ -117,9 +117,17 @@ Please note that topics are subject to change during the course!
 
 ### 2 SWS + ECTS
 
-* 1 for attending the lectures 
-* 2 for completing the homework assignments 
-* 1-3 for the final project
+* 1 ECTS for attending the lectures 
+* 2 ECTS for completing 70 % of the homework assignments 
+* 1-3 ECTS for the final project
+
+You can hand in homework until July 28th to make it count. This is a hard deadline.
+
+### The Final Project
+
+You have to hand in the final project in your owncloud file until September 30st. This is a hard deadline.
+  
+Please also hand in an summary of the time you spend working on the final project.
 
 
 ## Materials
@@ -136,3 +144,4 @@ To hand in your homework assignment, you submit links to your sketches in your O
 
 * [The OwnCloud Folder](https://owncloud.gwdg.de/index.php/s/oA91WHT3HitvZlD), PW: coding
 * Open your file, add your text, links, etc.
+  

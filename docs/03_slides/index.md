@@ -26,6 +26,7 @@ In this section you find all slides for the course.
 * [Slides 10 - Images](ccfb_ss23_10_images_slides.html) 
 * [Slides 11 - Arrays](ccfb_ss23_11_arrays_slides.html) 
 * [Slides 12 - Libraries](ccfb_ss23_12_libraries_slides.html) 
+* [Slides 13 - The Jumping Game and Wrap Up](ccfb_ss23_13_wrapup_slides.html) 
   
   
 Also see the script for each topic.
