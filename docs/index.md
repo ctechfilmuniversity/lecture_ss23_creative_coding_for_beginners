@@ -125,11 +125,20 @@ You can hand in homework until July 28th to make it count. This is a hard deadli
 
 ### The Final Project
 
-You have to hand in the final project in your owncloud file until September 30st. This is a hard deadline.
+You can do anything you like as a final project. 
+
+You have to hand in the final project in your Owncloud file until **September 30st**. This is a hard deadline.
+
+Moreover, submit at least one representative image and a short project description covering the following aspects:
+
+* Concept
+* Implementation
+* Results
+* Lessons Learned
+* Time spent on the project
   
-Please also hand in an summary of the time you spend working on the final project.
-
-
+Feel free to get in touch with me before or during your work for any additional questions.
+  
 ## Materials
 
 All materials are published on the [course website](https://ctechfilmuniversity.github.io/lecture_ss23_creative_coding_for_beginners/). Each morning the material for that day is uploaded.
